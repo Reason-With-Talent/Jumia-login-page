@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    text-align: center;
+
+}
+
+.star-div svg {
+    border-radius: 100px;
+    background-color: orange;
+    padding: 10px;
+    color: white;
+}
+
+.jumia-main-one h3 {
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #000000;
+}
+
+.jumia-main-one p {
+    padding-top: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #4A4A4A;
+    line-height: 1.4;
+}
+
+.jumia-main-two {
+    padding-top: 20px;
+}
+
+#form input {
+    width: 80%;
+    padding: 15px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#mail {
+    width: 400px;
+    padding: 20px 5px;
+    border: none;
+    background-color: #eee;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+}
+
+#user-pass input {
+    width: 400px;
+    padding: 15px 5px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.jumia-main-two button {
+    margin-top: 40px;
+    width: 80%;
+    padding: 15px;
+    color: #FFFFFF;
+    background-color: orange;
+    border: none;
+    border-radius: 3px;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.jumia-main-three {
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    padding: 10px 5px;
+    background-color: #1877f2;
+    width: 80%;
+    border-radius: 3px;
+}
+
+.main-one {
+    color: #FFFFFF;
+}
+
+.Facebook {
+    font-size: 15px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding-top: 5px;
+    padding-right: 50px;
+}
+
+.jumia-main-four p {
+    color: #4A4A4A;
+    margin-top: 30px;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1.4;
+}
+
+.jumia-main-five {
+    margin-top: 30px;
+}
+
+.jumia-main-six {
+    margin-top: 20px;
+}
+
+.jumia-main-seven {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.jumia-main-seven button {
+    width: 400px;
+    padding: 15px;
+    color: #FFFFFF;
+    background-color: orange;
+    border: none;
+    border-radius: 3px;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.forget {
+    color: orange;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 500;
+
+}
